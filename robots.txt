@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iamgpreetsinghtablet.github.io/tech_ideas/sitemap.xml
